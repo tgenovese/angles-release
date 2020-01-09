@@ -1,3 +1,26 @@
+## angles (eloquent) - 1.12.2-1
+
+The packages in the `angles` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release -r eloquent angles` on `Thu, 09 Jan 2020 01:46:25 -0000`
+
+The `angles` package was released.
+
+Version of package(s) in repository `angles`:
+
+- upstream repository: https://github.com/ros/angles.git
+- release repository: https://github.com/ros2-gbp/angles-release.git
+- rosdistro version: `1.12.1-1`
+- old version: `1.12.1-1`
+- new version: `1.12.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.15`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## angles (eloquent) - 1.12.1-1
 
 The packages in the `angles` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release --rosdistro eloquent angles` on `Thu, 03 Oct 2019 08:09:01 -0000`
