@@ -1,3 +1,26 @@
+## angles (foxy) - 1.12.3-1
+
+The packages in the `angles` repository were released into the `foxy` distro by running `/usr/bin/bloom-release -r foxy angles` on `Tue, 12 May 2020 01:04:32 -0000`
+
+The `angles` package was released.
+
+Version of package(s) in repository `angles`:
+
+- upstream repository: https://github.com/ros/angles.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.12.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.18`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.1`
+- vcstools version: `0.1.42`
+
+
 ## angles (dashing) - 1.12.2-1
 
 The packages in the `angles` repository were released into the `dashing` distro by running `/usr/bin/bloom-release -r dashing angles` on `Thu, 09 Jan 2020 01:50:22 -0000`
