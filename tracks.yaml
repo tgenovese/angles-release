@@ -142,5 +142,4 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/ros/angles.git
-    version: 1.12.3
-    version_saved: :{auto}
+    version: :{auto}
