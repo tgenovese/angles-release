@@ -13,12 +13,16 @@ endif()
 
 find_package(ament_cmake REQUIRED)
 
-install(DIRECTORY include/${PROJECT_NAME}/
-        DESTINATION include/${PROJECT_NAME}/
-        FILES_MATCHING PATTERN "*.h")
+add_library(angles INTERFACE)
+target_include_directories(angles INTERFACE
+  "$<INSTALL_INTERFACE:include/angles>")
+install(TARGETS angles EXPORT export_angles)
 
-include_directories(include)
+# TODO(sloretz) remove when old-style CMake interface is no longer supported
+ament_export_include_directories("include/angles")
 
-ament_export_include_directories(include)
+ament_export_targets(export_angles)
+
+install(DIRECTORY include/ DESTINATION include/angles)
 
 ament_package()
