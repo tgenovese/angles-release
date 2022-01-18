@@ -1,3 +1,26 @@
+## angles (rolling) - 1.13.0-1
+
+The packages in the `angles` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --track rolling angles` on `Tue, 18 Jan 2022 21:49:18 -0000`
+
+The `angles` package was released.
+
+Version of package(s) in repository `angles`:
+
+- upstream repository: https://github.com/ros/angles.git
+- release repository: https://github.com/ros2-gbp/angles-release.git
+- rosdistro version: `1.12.4-1`
+- old version: `1.12.4-1`
+- new version: `1.13.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## angles (rolling) - 1.12.4-1
 
 The packages in the `angles` repository were released into the `rolling` distro by running `/home/cottsay/.local/bin/bloom-release angles -r rolling` on `Thu, 18 Mar 2021 18:44:20 -0000`
