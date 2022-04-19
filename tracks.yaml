@@ -170,8 +170,7 @@ tracks:
     ros_distro: humble
     vcs_type: git
     vcs_uri: https://github.com/ros/angles.git
-    version: 1.13.0
-    version_saved: :{auto}
+    version: :{auto}
   rolling:
     actions:
     - bloom-export-upstream :{vcs_local_uri} :{vcs_type} --tag :{release_tag} --display-uri
