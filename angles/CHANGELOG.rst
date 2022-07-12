@@ -2,11 +2,18 @@
 Changelog for package angles
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.14.0 (2022-07-12)
+1.16.0 (2022-07-12)
 -------------------
-* ROS 2 Python Port (`#37 <https://github.com/ros/angles/issues/37>`_) (`#38 <https://github.com/ros/angles/issues/38>`_)
-* Fix M_PI on Windows (`#34 <https://github.com/ros/angles/issues/34>`_) (`#36 <https://github.com/ros/angles/issues/36>`_)
-* Contributors: David V. Lu!!, Akash
+* Correct versions for version bump
+* ROS 2 Python Port (`#37 <https://github.com/ros/angles/issues/37>`_)
+* Fix M_PI on Windows (`#34 <https://github.com/ros/angles/issues/34>`_)
+* Contributors: Akash, David V. Lu!!, Geoffrey Biggs
+
+1.13.0 (2022-01-18)
+-------------------
+* Export ament_cmake buildtool dependency (`#32 <https://github.com/ros/angles/issues/32>`_)
+* Install includes to include/angles and add modern CMake target (`#28 <https://github.com/ros/angles/issues/28>`_)
+* Contributors: Shane Loretz
 
 1.12.4 (2021-03-18)
 -------------------
