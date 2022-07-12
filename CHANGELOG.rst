@@ -2,6 +2,12 @@
 Changelog for package angles
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.14.0 (2022-07-12)
+-------------------
+* ROS 2 Python Port (`#37 <https://github.com/ros/angles/issues/37>`_) (`#38 <https://github.com/ros/angles/issues/38>`_)
+* Fix M_PI on Windows (`#34 <https://github.com/ros/angles/issues/34>`_) (`#36 <https://github.com/ros/angles/issues/36>`_)
+* Contributors: David V. Lu!!, Akash
+
 1.12.4 (2021-03-18)
 -------------------
 * Upgrade to setuptools (`#23 <https://github.com/ros/angles/issues/23>`_)
