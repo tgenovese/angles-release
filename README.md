@@ -1,3 +1,26 @@
+## angles (kilted) - 1.16.1-1
+
+The packages in the `angles` repository were released into the `kilted` distro by running `/usr/bin/bloom-release -r kilted -t kilted angles` on `Tue, 23 Sep 2025 17:12:02 -0000`
+
+The `angles` package was released.
+
+Version of package(s) in repository `angles`:
+
+- upstream repository: https://github.com/ros/angles.git
+- release repository: https://github.com/ros2-gbp/angles-release.git
+- rosdistro version: `1.16.0-5`
+- old version: `1.16.0-5`
+- new version: `1.16.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## angles (rolling) - 1.16.1-1
 
 The packages in the `angles` repository were released into the `rolling` distro by running `/usr/bin/bloom-release -r rolling -t rolling angles` on `Tue, 23 Sep 2025 17:08:54 -0000`
